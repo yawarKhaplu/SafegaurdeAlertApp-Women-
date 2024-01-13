@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/bullet_list">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text=""
+        android:textStyle="bold"
+        android:padding="15dp"
+        android:textSize="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="45dp"
+        android:clickable="true"
+        android:textColor="@color/white"
+        android:contextClickable="true"
+        android:id="@+id/lawItem"
+        android:focusable="true" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="1."
+        android:id="@+id/numbering"
+        android:textStyle="bold"
+        android:padding="15dp"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="45dp"
+        android:clickable="true"
+        android:textColor="@color/white"
+        android:contextClickable="true"
+        android:focusable="true" />
+
+</RelativeLayout>

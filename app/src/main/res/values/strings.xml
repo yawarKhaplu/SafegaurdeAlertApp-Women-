@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">SafeGuard Alert</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="login_to_account_sign_in">Login to Account/Sign In</string>
+    <string name="about_us">About Us</string>
+    <string name="dept">Department of Computer Science and information Technology \n Faculty of Computing and Engineering \n University of Kotli AJK</string>
+    <string name="supervisor_name">Supervised By: \n Dr. Hammad ul Salam</string>
+    <string name="usama">Usama Aziz \n Roll No 31</string>
+    <string name="yawar">Yawar Abbas \n Roll No 37</string>
+    <string name="about_the_developer">About the Developer</string>
+
+    <array name="lawsBig">
+
+        <item>Child marriage takes away a girl’s right to safe and healthy childhood, quality and
+            complete
+            education that can lead to decent economic opportunities, and social and political
+            empowerment.
+            Pakistan has the 6th highest number of girls married before the age of 18 in the world.
+            Child
+            marriage is prevalent due to several reasons including deeply entrenched traditions and
+            customs,
+            poverty, lack of awareness and/or access to education, and lack of security.
+
+            The Prohibition of Child Marriage Act was made effective in 2007. This act defines child
+            marriage as a marriage where the groom or the bride are underage, that is, the bride is
+            under 18 years of age or the boy is younger than 21 years.
+
+            Parents trying to marry underage girls are subject to action under this law. Since the
+            law makes these marriages illegal, it acts as a major deterrent.
+        </item>
+        <item>
+            The Prevention of Anti-Women Practices (Criminal Law Amendment) Act, 2011 criminalizes
+            the act of giving women in marriage to settle disputes (Vani) and prevents forced
+            marriages.
+
+            This Law (Criminal Law (Third Amendment) Act, 2011) is
+            for prevention of customary practices such as giving a female in marriage or otherwise
+            in badla-e sulh, wanni or swara, depriving women from inheriting property, forced
+            marriages and marriage of females with the Holy Quran.
+        </item>
+        <item>
+            This Act may be called as Dowry and Bridal Gifts (Restriction) Act, 1976 and is enacted
+            to provide for restriction on dowry and bridal gifts and for matters connected with it.
+            It extends to the whole of Pakistan and applies to all citizens of Pakistan. Under this
+            Act the aggregate value of the dowry and presents given to the bride by her parents and
+            the aggregate value of the bridal gifts or presents given to the bridegroom shall not
+            exceed five thous and rupees. The total expenditure on a marriage, excluding the value
+            of dowry, bridal gifts and presents, but including the expenses on mehndi, baarat and
+            valima, incurred by either party to the marriage shall not exceed two thous and and five
+            hundred rupees. The parents of each party to a marriage shall furnish to the Registrar
+            lists of dowry, bridal gifts and presents given or received in connection with the
+            marriage under Section 8 of this Act. Whoever, contravenes, or fails to comply with,
+            any provision of this Act shall be punished under Section 9. An offence punishable under
+            this Act shall be triable only by a Family Court established under the West Pakistan
+            Family Courts Act, 1964.
+        </item>
+        <item>
+            To make provision for the protection of women against harassment at the workplace, the
+            Protection against Harassment of Women at the Workplace Act, 2010 (Act IV of 2010) was
+            enacted, which was adopted by Punjab vide Punjab Protection against Harassment of Women
+            at the Workplace (Amendment) Act,2012 (Act III of 2013).
+
+            The objective of the said Act is to create a safe working environment for women, which
+            is free of harassment, abuse, and intimidation with a view toward the fulfillment of
+            their right to work with dignity. The Act is also aimed at enabling higher productivity
+            and a better quality of life at work and builds on the principles of equal opportunity
+            for men and women and their right to earn a livelihood without fear of discrimination as
+            stipulated in the Constitution of Pakistan
+        </item>
+        <item>
+            In Pakistan, maternity benefits for employed women are primarily governed by the West
+            Pakistan Maternity Benefit Ordinance, 1958. Under this ordinance, a woman is entitled to
+            a maternity leave of twelve weeks, dividing it as six weeks before and six weeks after
+            childbirth. During this period, she is to receive her full pay based on her last drawn
+            wages. The law ensures her job security by prohibiting her dismissal during her
+            maternity
+            leave. In cases of miscarriage or medical termination of pregnancy, the ordinance grants
+            her a leave of six weeks with pay, contingent on presenting relevant medical proof.
+            Additionally, if complications or illnesses arise out of pregnancy or delivery, she\'s
+            entitled to an added month of paid leave. While this ordinance sets the national
+            baseline,
+            it\'s essential to recognize that provincial laws in Pakistan might offer additional
+            provisions or modifications concerning maternity benefits.
+        </item>
+        <item>
+            Fasad-fil-arz, a concept used to decide severity of punishment awarded, including the
+            offender s past convictions, extreme nature of the offence, and the offender being a
+            danger to the community, now includes offences committed in the name of honour. The
+            application of this concept automatically gives rise to severe punishments for honour
+            crimes.
+
+            Murder committed in the name of honour is punishable with death or imprisonment for
+            life.
+
+            For murder committed in the name of honour, even if the accused is pardoned by the Wali
+            or other family members of the victim, the Court will still punish the accused with
+            imprisonment for life.
+        </item>
+        <item>
+            The bill on Acid control and Acid Crime recommends 14-year to lifetime imprisonment
+            sentences
+            and levies fines up to Rs1 million for the perpetrators of the crime.
+
+            The purpose of the bill is to control the import, production, transportation, hoarding,
+            sale and use of acid to prevent misuse and provide legal support to acid and burn
+            victims.
+        </item>
+        <item>
+            The Family Courts Act, 1964, in Pakistan is designed to streamline the adjudication of
+            family matters, including marriage, divorce, child custody, and maintenance. Through
+            this act, specialized Family Courts were established to ensure expeditious resolution of
+            family disputes, providing a more focused and efficient avenue for individuals to seek
+            justice in matters of personal and familial importance. This legal mechanism aims to
+            address family-related issues with greater sensitivity and understanding than regular
+            courts.
+        </item>
+        <item>
+            Legal aid in Pakistan, particularly for women, is encompassed under the Legal Aid and
+            Justice Authority Act, 2020. This act ensures the provision of free legal services to
+            those, especially women, who cannot afford to pay for legal representation or access to
+            the court system. By providing legal advice, representation in court, and other
+            essential
+            services through state-appointed lawyers or authorized legal entities, the act is
+            designed to ensure that every woman, irrespective of her financial situation, can seek
+            justice. The ultimate objective is to guarantee fairness, uphold rights, and provide
+            equal access to justice for all women, emphasizing those from marginalized and
+            vulnerable groups.
+        </item>
+        <item>
+            The Punjab Protection of Women Against Violence Act, 2016, is a comprehensive
+            legislation
+            in Pakistan\'s Punjab province aimed at providing protection and relief to women facing
+            any form of violence. It encompasses various kinds of abuse, including physical,
+            psychological, sexual, economic, and verbal or emotional harm. The act establishes a
+            system that includes protection centers, shelters, and a toll-free helpline for victims.
+            Moreover, it introduces the concept of \"Protection Officers\" who assist the courts in
+            the
+            timely completion of cases and ensure women receive all entitled rights. This act is a
+            progressive step towards ensuring women\'s safety and providing a structured support
+            system for victims of violence in Punjab.
+        </item>
+    </array>
+</resources>
